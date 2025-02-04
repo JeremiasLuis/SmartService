@@ -128,7 +128,7 @@ Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LIC
 
 ## Contato
 
-Se tiver dúvidas ou sugestões, entre em contato com a equipe de desenvolvimento através do email: globof129@gmail.com.
+Se tiver dúvidas ou sugestões, entre em contato com a equipe de desenvolvimento através do email: jerry.mdigital@gmail.com.
 
 
 
