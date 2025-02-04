@@ -54,7 +54,7 @@ Com funcionalidades como o controle de entrada e saída de viaturas, geração d
 Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/Djosekispy/Oficina.git
+git clone https://github.com/JeremiasLuis/SmartService.git
 ```
 
 ### 2. Instale as Dependências
